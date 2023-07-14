@@ -1,3 +1,3 @@
 # Assignment-landingpage
 
-Deploy Link: https://github.com/supriyorudra/Assignment-landingpage
+Deploy Link: https://supriyorudra.github.io/Assignment-landingpage/
